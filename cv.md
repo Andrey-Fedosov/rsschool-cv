@@ -6,8 +6,11 @@
 * Phone: +375 29 198-99-59
 * Email: andrefedosov@gmail.com
 * GitHub: [Andrey-Fedosov](https://github.com/Andrey-Fedosov)
+* LinkedIn: [Andrey Fedosov](https://www.linkedin.com/in/andrey-fedosov-200567185)
 -----------
 ## **About me**
+
+
 I've got basic knowledge of HTML, CSS, JS, git. I've not lost all my english skills.
 
 Also i'm  35 years old and i'am sure - it is the best time to switching.
