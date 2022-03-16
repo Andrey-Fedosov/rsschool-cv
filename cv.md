@@ -5,8 +5,9 @@
 * Location: Mogilev, Belarus
 * Phone: +375 29 198-99-59
 * Email: andrefedosov@gmail.com
-* GitHub: [Andrey-Fedosov](https://github.com/Andrey-Fedosov)
 * LinkedIn: [Andrey Fedosov](https://www.linkedin.com/in/andrey-fedosov-200567185)
+* GitHub: [Andrey-Fedosov](https://github.com/Andrey-Fedosov)
+ 
 -----------
 ## **About me**
 
